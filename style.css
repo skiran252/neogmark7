@@ -1,0 +1,23 @@
+body {
+  background-color: darkgrey;
+  min-width: 100%;
+}
+
+.textarea {
+  font-size: 20px;
+  height: 20vh;
+  font-size: larger;
+  font-weight: 500;
+}
+
+#translatebtn{
+  background-color: black;
+  color: white;
+  border: 3px solid black;
+  font-size: x-large;
+  padding: 20px;
+}
+#translatebtn:hover {
+  background-color: red;
+  color:white;
+}
